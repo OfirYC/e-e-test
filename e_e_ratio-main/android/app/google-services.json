@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "837949200392",
+    "project_id": "ee-ratio",
+    "storage_bucket": "ee-ratio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837949200392:android:5ef288e6544538eba119bd",
+        "android_client_info": {
+          "package_name": "net.ammarafzal.e_e_ratio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837949200392-a5kihu8ict9vsde8k50j42ppmatg4c5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDti9WlTXrltFzttYxUpsO8U1KrUtH-xJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837949200392-a5kihu8ict9vsde8k50j42ppmatg4c5s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837949200392-ori2spt42uh9rve5qt1gm204vp8pdajk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.ammarafzal.eERatio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
